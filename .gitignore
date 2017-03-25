@@ -1,0 +1,4 @@
+#ignoramos las carpetas siguientes
+build.xml
+manifest.mf
+nbproject
